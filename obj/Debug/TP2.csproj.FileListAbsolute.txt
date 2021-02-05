@@ -1,0 +1,14 @@
+E:\EPSI\Cours\dot net\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+E:\EPSI\Cours\dot net\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+E:\EPSI\Cours\dot net\TP2\bin\Debug\TP2.exe.config
+E:\EPSI\Cours\dot net\TP2\bin\Debug\TP2.exe
+E:\EPSI\Cours\dot net\TP2\bin\Debug\TP2.pdb
+E:\EPSI\Cours\dot net\TP2\bin\Debug\EntityFramework.dll
+E:\EPSI\Cours\dot net\TP2\bin\Debug\EntityFramework.SqlServer.dll
+E:\EPSI\Cours\dot net\TP2\bin\Debug\Newtonsoft.Json.dll
+E:\EPSI\Cours\dot net\TP2\bin\Debug\EntityFramework.xml
+E:\EPSI\Cours\dot net\TP2\bin\Debug\EntityFramework.SqlServer.xml
+E:\EPSI\Cours\dot net\TP2\bin\Debug\Newtonsoft.Json.xml
+E:\EPSI\Cours\dot net\TP2\obj\Debug\TP2.csproj.CopyComplete
+E:\EPSI\Cours\dot net\TP2\obj\Debug\TP2.exe
+E:\EPSI\Cours\dot net\TP2\obj\Debug\TP2.pdb
